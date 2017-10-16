@@ -1,0 +1,89 @@
+body {
+  font-family: 'MedievalSharp', cursive;
+  background: #23261f;
+  color: #98ce5f;
+}
+
+h3 {
+ font-size: 60px;
+ margin-top:30px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  background: white;
+  height: 15px;
+  width: 15px; 
+  font-size: 10px;
+}
+
+.tree {
+  background: #552a27;
+  color: green;
+}
+
+.ground {
+  background: #552a27;
+  color: brown;
+}
+
+.hero {
+  background: #552a27;
+}
+
+.portal {
+  background: #552a27;
+}
+
+.weapon {
+  background: #552a27;
+}
+
+.health {
+  background: #552a27;
+}
+
+.enemy {
+  background: #552a27;
+}
+
+.info {
+  font-size: 25px;
+  margin-top: 10px; 
+}
+
+.boss {
+  background: #552a27;
+}
+
+.btn-default {
+  background: #98ce5f;
+  color: #23261f;
+  margin-top: 20px;
+  border-radius: 0px;
+}
+
+.btn-default:hover {
+  color: #ad2b2b;
+}
+
+.btn-default:active {
+  background: #ad2b2b;
+}
+
+.black {
+  background: black;
+}
+
+#muteBtn {
+  font-size: 50px;
+  margin-top: 10px;
+}
+
+.values {
+  color: white;
+}
